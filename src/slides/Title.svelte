@@ -13,7 +13,7 @@
   });
 </script>
 
-<Slide data-background="#bb00bb">
+<Slide>
   <h2>
     {#await title}
       Wait a sec...

@@ -10,11 +10,14 @@
   import Math from "./slides/examples/Math.svelte";
   import Media from "./slides/examples/Media.svelte";
   import Transitions from "./slides/examples/Transitions.svelte";
+  import Start from "./slides/Start.svelte";
 
   const partner = ["Bilel", "Islem"];
 </script>
 
-<Title />
+<Start />
+
+<!-- <Title />
 <Love {partner} />
 <GettingStarted />
 <AutoAnimate />
@@ -24,4 +27,4 @@
 <Markdown />
 <Math />
 <Media />
-<Transitions />
+<Transitions /> -->
